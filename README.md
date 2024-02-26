@@ -34,7 +34,7 @@ This project uses Django REST Framework for building the API endpoint and handli
 
 
 **Disclaimer**
-Scraping data from LinkedIn may violate their terms of service. This project is provided for educational purposes only. Use it responsibly and respect the website's terms and conditions.
+Scraping data from LinkedIn may violate their terms of service. This project is provided for educational purposes only. Use it responsibly and respect the website's terms and conditions.It includes information about the integration with ChatGPT and how prompts related to the scraped profile are handled. Make sure to integrate this functionality into your project accordingly.
 
 Please ensure that you comply with LinkedIn's terms of service and obtain the necessary permissions before scraping any data from their platform.
 
